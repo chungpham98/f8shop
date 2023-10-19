@@ -1462,6 +1462,7 @@ i.home-product-item__like-icon-fill {
 
 .footer__download-qr {
     width: 88px;
+    height: 88px;
     padding: 4px;
     margin-right: 12px;
     border-radius: 2px;
